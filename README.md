@@ -4,6 +4,7 @@
 
 Bhavana B  
 MUID: bhavanab-1@mulearn
+Deployment Link: https://pdf-rag-ai-assistance.streamlit.app/
 
 ## Project Overview
 
