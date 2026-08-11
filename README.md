@@ -1,4 +1,4 @@
-# 📚 PDF Question Answering Assistant using RAG
+#  PDF Question Answering Assistant using RAG
 
 ## Author
 
